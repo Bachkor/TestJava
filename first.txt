@@ -1,0 +1,4 @@
+public class()
+{
+	System.out.println("Welcome to GitHub");
+}
