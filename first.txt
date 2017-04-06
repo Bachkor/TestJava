@@ -1,4 +1,4 @@
 public class()
 {
-	System.out.println("Welcome to GitHub");
+	System.out.println("Welcome to GitHub session");
 }
